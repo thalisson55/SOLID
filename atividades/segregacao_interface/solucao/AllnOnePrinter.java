@@ -1,4 +1,4 @@
-public class AllInOnePrinter implements Machine {
+public class AllInOnePrinter implements Printer, Scanner {
     @Override
     public void print() {
         // Implementação do método print
